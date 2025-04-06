@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1nXqJT05ijRphwakCWfBL84LwmzWQOMvd?usp=sha
 
 **Surplus4Society** is a Flutter-based mobile application that connects individuals and organizations with surplus resources to people in need. The platform facilitates smooth donation tracking, volunteer coordination, and efficient surplus distribution, fostering community impact.
  
-###  Official Project for OdooXMindbend 2K25
+
 
 ## 🌟 Features
 
